@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Raw-Photo-Editing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-blue.svg" alt="License" /></a>
@@ -64,54 +64,54 @@ The table below compiles industry-leading commercial desktop applications, ranke
 
 ## ⚡ Open-Source GitHub Projects
 
-Explore the richest open-source ecosystem in imaging software. Projects are sorted in **descending order by GitHub star count**, featuring live social star badges that link directly to each repository's stargazers page:
+Explore the richest open-source ecosystem in imaging software. Projects are sorted in **descending order by GitHub Stars_Count**, featuring live social Stars_Badges that link directly to each repository's stargazers page:
 
-1. **[immich](https://github.com/immich-app/immich)** [![GitHub Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
+1. **[immich](https://github.com/immich-app/immich)** [![GitHub_Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
    🚀 Ultra-fast self-hosted photo and video backup solution with native camera RAW decoding, machine learning facial recognition, vector search, and multi-user web/mobile access.
 
-2. **[darktable](https://github.com/darktable-org/darktable)** [![GitHub Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)  
+2. **[darktable](https://github.com/darktable-org/darktable)** [![GitHub_Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)  
    🌟 Professional open-source photography workflow application and virtual lighttable/darkroom. Implements a modern scene-referred color pipeline (filmic/sigmoid tone-mapping), full color management, tethering support, and non-destructive 32-bit floating-point processing.
 
-3. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
+3. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
    🎨 The quintessential open-source image manipulation program. Seamlessly integrates with darktable and RawTherapee plugins as external RAW development backends for high-bit-depth image retouching.
 
-4. **[RawTherapee](https://github.com/RawTherapee/RawTherapee)** [![GitHub Stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers)  
+4. **[RawTherapee](https://github.com/RawTherapee/RawTherapee)** [![GitHub_Stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers)  
    🔬 High-precision cross-platform RAW image processor renowned for advanced demosaicing algorithms (AMaZE, RCD, IGV), CIECAM02 color appearance modeling, dual-demosaicing for noisy sensors, and fine micro-contrast adjustments.
 
-5. **[OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)** [![GitHub Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)  
+5. **[OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)** [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)  
    🎬 Academy Award-winning complete color management solution tailored for visual effects and computer graphics, widely used across professional imaging tools to preserve colorimetry from raw capture to final delivery.
 
-6. **[LibRaw](https://github.com/LibRaw/LibRaw)** [![GitHub Stars](https://img.shields.io/github/stars/LibRaw/LibRaw?style=social&color=white)](https://github.com/LibRaw/LibRaw/stargazers)  
+6. **[LibRaw](https://github.com/LibRaw/LibRaw)** [![GitHub_Stars](https://img.shields.io/github/stars/LibRaw/LibRaw?style=social&color=white)](https://github.com/LibRaw/LibRaw/stargazers)  
    📚 Foundational library for reading and extracting sensor RAW data from virtually every digital camera brand (CR2/CR3, NEF, ARW, DNG, RAF). Serves as the core demosaicing backend for dozens of editors and utilities.
 
-7. **[Exiv2](https://github.com/Exiv2/exiv2)** [![GitHub Stars](https://img.shields.io/github/stars/Exiv2/exiv2?style=social&color=white)](https://github.com/Exiv2/exiv2/stargazers)  
+7. **[Exiv2](https://github.com/Exiv2/exiv2)** [![GitHub_Stars](https://img.shields.io/github/stars/Exiv2/exiv2?style=social&color=white)](https://github.com/Exiv2/exiv2/stargazers)  
    🏷️ Industry-standard C++ library and command-line utility for managing and reading Exif, IPTC, and XMP metadata, embedded color ICC profiles, and camera maker-notes from RAW image files.
 
-8. **[Ansel](https://github.com/aurelienpierreeng/ansel)** [![GitHub Stars](https://img.shields.io/github/stars/aurelienpierreeng/ansel?style=social&color=white)](https://github.com/aurelienpierreeng/ansel/stargazers)  
+8. **[Ansel](https://github.com/aurelienpierreeng/ansel)** [![GitHub_Stars](https://img.shields.io/github/stars/aurelienpierreeng/ansel?style=social&color=white)](https://github.com/aurelienpierreeng/ansel/stargazers)  
    ⚡ Lean, refined darktable fork designed by Aurélien Pierre. Focuses on an uncompromising scene-referred workflow, simplified user interface, removal of obsolete modules, and pure physics-based color rendering.
 
-9. **[digiKam](https://github.com/KDE/digikam)** [![GitHub Stars](https://img.shields.io/github/stars/KDE/digikam?style=social&color=white)](https://github.com/KDE/digikam/stargazers)  
+9. **[digiKam](https://github.com/KDE/digikam)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/digikam?style=social&color=white)](https://github.com/KDE/digikam/stargazers)  
    📂 Enterprise-grade digital asset management (DAM) application with native 16-bit image editing, LibRaw-powered raw decoding, hierarchical tagging, geolocation mapping, and deep facial recognition.
 
-10. **[Filmulator](https://github.com/CarVac/filmulator-gui)** [![GitHub Stars](https://img.shields.io/github/stars/CarVac/filmulator-gui?style=social&color=white)](https://github.com/CarVac/filmulator-gui/stargazers)  
+10. **[Filmulator](https://github.com/CarVac/filmulator-gui)** [![GitHub_Stars](https://img.shields.io/github/stars/CarVac/filmulator-gui?style=social&color=white)](https://github.com/CarVac/filmulator-gui/stargazers)  
     🎞️ Innovative RAW processor that computationally models the physics of silver halide photographic emulsion development, delivering natural highlight roll-off, film-like local contrast, and organic halation.
 
-11. **[Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR)** [![GitHub Stars](https://img.shields.io/github/stars/LuminanceHDR/LuminanceHDR?style=social&color=white)](https://github.com/LuminanceHDR/LuminanceHDR/stargazers)  
+11. **[Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR)** [![GitHub_Stars](https://img.shields.io/github/stars/LuminanceHDR/LuminanceHDR?style=social&color=white)](https://github.com/LuminanceHDR/LuminanceHDR/stargazers)  
     🌅 Specialized open-source high-dynamic-range workflow application providing synthetic HDR exposure merging, tonemapping operators (Mantiuk, Durand, Fattal), and direct camera RAW file ingestion.
 
-12. **[vkdt](https://github.com/hanatos/vkdt)** [![GitHub Stars](https://img.shields.io/github/stars/hanatos/vkdt?style=social&color=white)](https://github.com/hanatos/vkdt/stargazers)  
+12. **[vkdt](https://github.com/hanatos/vkdt)** [![GitHub_Stars](https://img.shields.io/github/stars/hanatos/vkdt?style=social&color=white)](https://github.com/hanatos/vkdt/stargazers)  
     🚀 Experimental next-generation Vulkan-powered node-based RAW processing engine designed for ultra-high-speed real-time previewing, 8K+ rendering throughput, and GPU compute efficiency.
 
-13. **[ART (Another RawTherapee)](https://github.com/artpixls/ART)** [![GitHub Stars](https://img.shields.io/github/stars/artpixls/ART?style=social&color=white)](https://github.com/artpixls/ART/stargazers)  
+13. **[ART (Another RawTherapee)](https://github.com/artpixls/ART)** [![GitHub_Stars](https://img.shields.io/github/stars/artpixls/ART?style=social&color=white)](https://github.com/artpixls/ART/stargazers)  
     🎯 Modernized fork of RawTherapee introducing localized vector/parametric masking, ACES/OpenColorIO support, simplified tone curves, and enhanced usability without sacrificing colorimetric depth.
 
-14. **[Rawspeed](https://github.com/darktable-org/rawspeed)** [![GitHub Stars](https://img.shields.io/github/stars/darktable-org/rawspeed?style=social&color=white)](https://github.com/darktable-org/rawspeed/stargazers)  
+14. **[Rawspeed](https://github.com/darktable-org/rawspeed)** [![GitHub_Stars](https://img.shields.io/github/stars/darktable-org/rawspeed?style=social&color=white)](https://github.com/darktable-org/rawspeed/stargazers)  
     🏎️ High-performance camera RAW file decoding library utilized by darktable, engineered from the ground up for SIMD vectorized decompression and fuzz-tested safety.
 
-15. **[MLV App](https://github.com/ilia3101/MLV-App)** [![GitHub Stars](https://img.shields.io/github/stars/ilia3101/MLV-App?style=social&color=white)](https://github.com/ilia3101/MLV-App/stargazers)  
+15. **[MLV App](https://github.com/ilia3101/MLV-App)** [![GitHub_Stars](https://img.shields.io/github/stars/ilia3101/MLV-App?style=social&color=white)](https://github.com/ilia3101/MLV-App/stargazers)  
     🎥 Dedicated cross-platform application for processing Magic Lantern RAW video (MLV) and cinema DNG sequences, featuring dual-ISO processing, raw white balance, and film emulations.
 
-16. **[PhotoFlow](https://github.com/aferrero2707/PhotoFlow)** [![GitHub Stars](https://img.shields.io/github/stars/aferrero2707/PhotoFlow?style=social&color=white)](https://github.com/aferrero2707/PhotoFlow/stargazers)  
+16. **[PhotoFlow](https://github.com/aferrero2707/PhotoFlow)** [![GitHub_Stars](https://img.shields.io/github/stars/aferrero2707/PhotoFlow?style=social&color=white)](https://github.com/aferrero2707/PhotoFlow/stargazers)  
     🧩 Non-destructive photographic retouching tool providing an interactive node-based layer graph, complete with color management, VIPS image caching, and linear floating-point precision.
 
 ---
